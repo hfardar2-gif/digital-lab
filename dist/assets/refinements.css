@@ -1,0 +1,12 @@
+.portrait-frame {
+  width: min(300px, 82vw);
+  aspect-ratio: 1 / 1;
+  border-radius: 50%;
+  box-shadow: 0 28px 70px rgba(0, 0, 0, 0.28);
+}
+
+@media (max-width: 640px) {
+  .portrait-wrap {
+    justify-content: center;
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "fardar-industrial-digital-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite dist --host 0.0.0.0",
+    "build": "node --check dist/assets/app.js"
+  },
+  "devDependencies": {
+    "vite": "^7.1.4"
+  }
+}
