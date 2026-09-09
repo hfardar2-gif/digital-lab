@@ -13,9 +13,9 @@ window.portfolioData = {
   },
   links: [
     "https://B2n.ir/kr2904",
-    "#contact",
-    "https://aka2000mt-executive.h-fardar2.workers.dev",
-    "#contact",
+    "https://smal-paper-82de.h-fardar2.workers.dev",
+    "https://aka2000mt.h-fardar2.workers.dev/",
+    "https://B2n.ir/qf4047",
     "#contact",
     "#contact",
     "#contact",
@@ -25,42 +25,42 @@ window.portfolioData = {
   fa: [
     ["هوشمندی منابع انسانی", "سامانه هوشمند سرمایه انسانی", "مدیریت استعدادها، جانشین‌پروری، تحلیل سرمایه انسانی و گزارش‌های تصمیم‌ساز برای مدیران.", "مشاهده دموی محصول"],
     ["تصمیم‌یار تجاری", "AKAXII", "ابزار چندزبانه نرخ ارز و محاسبات تجاری برای تصمیم‌های سریع‌تر و دقیق‌تر.", "مشاهده پروژه"],
-    ["هوشمندی تولید", "داشبورد مدیریتی تولید", "نمای یکپارچه ورود مواد، تولید، فروش، موجودی و بالانس متریال میان تهران و هنگ‌کنگ.", "مشاهده داشبورد"],
+    ["هوشمندی تولید", "داشبورد مدیریتی تولید", "نمای یکپارچه ورود مواد، تولید، فروش، موجودی و بالانس متریال.", "مشاهده داشبورد"],
     ["یکپارچگی ERP", "شبیه‌ساز جریان اطلاعات فولاد", "نمایش تعاملی گردش اطلاعات میان فروش، برنامه‌ریزی، تولید، کیفیت، انبار، مالی و مدیریت.", "درخواست مشاهده"],
     ["فناوری مالی", "مدیریت حساب‌های امانی", "پلتفرم دوزبانه مدیریت چک، دریافت، برداشت، جریان نقدی، پیش‌بینی و گزارش‌های مالی.", "مشاهده پروژه"],
     ["تجربه دیجیتال", "MODAFRAME Virtual Studio", "نمونه تجربه مجازی برای پرو لباس و ساخت محتوای متحرک در فضای مد و تجارت دیجیتال.", "مشاهده پروژه"],
     ["تحلیل مدیریتی", "گزارش مدیریتی CPR", "اعتبارسنجی داده، حذف رکوردهای تکراری، محاسبه KPI و تولید گزارش مدیریتی قابل ویرایش.", "مشاهده پروژه"],
-    ["پروتوتایپ صنعتی", "سامانه فولاد بهراد", "نمونه اولیه یک راهکار دیجیتال برای نمایش و توسعه فرایندهای کسب‌وکار صنعتی.", "درخواست مشاهده"]
+    ["پروتوتایپ صنعتی", "سامانه کنترل اطلاعات صنعتی", "نمونه اولیه یک راهکار دیجیتال برای نمایش و توسعه فرایندهای کسب‌وکار صنعتی.", "درخواست مشاوره"]
   ],
   en: [
     ["People intelligence", "Intelligent Human Capital System", "Talent, succession and workforce analytics with decision-ready reporting for leaders.", "View live product"],
     ["Commercial decision support", "AKAXII", "A multilingual exchange-rate and trade calculation tool for faster, more accurate decisions.", "View project"],
-    ["Production intelligence", "Executive Production Dashboard", "A connected view of materials, production, sales, inventory and balance across Tehran and Hong Kong.", "View dashboard"],
+    ["Production intelligence", "Executive Production Dashboard", "A connected view of materials, production, sales, inventory and material balance.", "View dashboard"],
     ["ERP integration", "Steel Information Flow Simulator", "An interactive view of information moving through sales, planning, production, quality, warehouse, finance and management.", "Request a walkthrough"],
     ["Financial technology", "Escrow Banking Manager", "A bilingual platform for cheques, receipts, withdrawals, cash flow, forecasting and financial reporting.", "View project"],
     ["Digital experience", "MODAFRAME Virtual Studio", "A virtual try-on and motion-content concept for fashion and digital commerce.", "View project"],
     ["Management analytics", "CPR Management Report", "Data validation, deduplication, auditable KPI calculation and editable management reporting.", "View project"],
-    ["Industrial prototype", "Foolad Behrad System", "A digital prototype designed to present and evolve industrial business processes.", "Request a walkthrough"]
+    ["Industrial prototype", "Industrial Information Control System", "A digital prototype designed to present and evolve industrial business processes.", "Request a consultation"]
   ],
   zh: [
     ["人才智能", "智能人力资本系统", "人才、继任与人力分析，以及面向管理者的决策报告。", "查看产品演示"],
     ["商业决策支持", "AKAXII", "多语言汇率与贸易计算工具，帮助企业更快、更准确地决策。", "查看项目"],
-    ["生产智能", "生产管理驾驶舱", "连接德黑兰与香港的原料、生产、销售、库存和物料平衡视图。", "查看仪表板"],
+    ["生产智能", "生产管理驾驶舱", "原料、生产、销售、库存和物料平衡的一体化视图。", "查看仪表板"],
     ["ERP集成", "钢铁信息流模拟器", "交互展示销售、计划、生产、质量、仓储、财务与管理之间的信息流。", "申请演示"],
     ["金融科技", "托管账户管理平台", "用于支票、收款、付款、现金流、预测和财务报告的双语平台。", "查看项目"],
     ["数字体验", "MODAFRAME虚拟工作室", "面向时尚与数字商业的虚拟试穿和动态内容概念。", "查看项目"],
     ["管理分析", "CPR管理报告", "数据验证、去重、可审计KPI计算以及可编辑管理报告。", "查看项目"],
-    ["工业原型", "Foolad Behrad系统", "用于展示并持续发展工业业务流程的数字化原型。", "申请演示"]
+    ["工业原型", "工业信息控制系统", "用于展示并持续发展工业业务流程的数字化原型。", "申请咨询"]
   ],
   ar: [
     ["ذكاء رأس المال البشري", "نظام رأس المال البشري الذكي", "إدارة المواهب والتعاقب وتحليلات القوى العاملة وتقارير القرار للمديرين.", "مشاهدة المنتج"],
     ["دعم القرار التجاري", "AKAXII", "أداة متعددة اللغات للعملات وحسابات التجارة لقرارات أسرع وأكثر دقة.", "مشاهدة المشروع"],
-    ["ذكاء الإنتاج", "لوحة الإنتاج التنفيذية", "رؤية مترابطة للمواد والإنتاج والمبيعات والمخزون والتوازن بين طهران وهونغ كونغ.", "مشاهدة اللوحة"],
+    ["ذكاء الإنتاج", "لوحة الإنتاج التنفيذية", "رؤية مترابطة للمواد والإنتاج والمبيعات والمخزون وتوازن المواد.", "مشاهدة اللوحة"],
     ["تكامل ERP", "محاكي تدفق معلومات الصلب", "عرض تفاعلي لتدفق المعلومات بين المبيعات والتخطيط والإنتاج والجودة والمخزون والمالية والإدارة.", "اطلب عرضاً"],
     ["التقنية المالية", "مدير الحسابات الائتمانية", "منصة ثنائية اللغة للشيكات والإيصالات والسحوبات والتدفق النقدي والتنبؤ والتقارير.", "مشاهدة المشروع"],
     ["التجربة الرقمية", "MODAFRAME Virtual Studio", "مفهوم للتجربة الافتراضية وصناعة المحتوى المتحرك للأزياء والتجارة الرقمية.", "مشاهدة المشروع"],
     ["التحليل الإداري", "تقرير CPR الإداري", "التحقق من البيانات وإزالة التكرار وحساب مؤشرات قابلة للتدقيق وإنتاج تقارير قابلة للتحرير.", "مشاهدة المشروع"],
-    ["نموذج صناعي", "نظام فولاد بهراد", "نموذج رقمي لعرض عمليات الأعمال الصناعية وتطويرها.", "اطلب عرضاً"]
+    ["نموذج صناعي", "نظام التحكم بالمعلومات الصناعية", "نموذج رقمي لعرض عمليات الأعمال الصناعية وتطويرها.", "اطلب استشارة"]
   ]
 };
 
