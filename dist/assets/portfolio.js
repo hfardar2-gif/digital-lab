@@ -19,9 +19,10 @@ window.portfolioData = {
     "#contact",
     "#contact",
     "#contact",
-    "#contact"
+    "#contact",
+    "https://hfardar2-gif.github.io/fardar-demos/factory-management-workspace/"
   ],
-  icons: ["users", "currency", "factory", "flow", "bank", "sparkles", "chart", "layers"],
+  icons: ["users", "currency", "factory", "flow", "bank", "sparkles", "chart", "layers", "factory"],
   fa: [
     ["هوشمندی منابع انسانی", "سامانه هوشمند سرمایه انسانی", "مدیریت استعدادها، جانشین‌پروری، تحلیل سرمایه انسانی و گزارش‌های تصمیم‌ساز برای مدیران.", "مشاهده دموی محصول"],
     ["تصمیم‌یار تجاری", "AKAXII", "ابزار چندزبانه نرخ ارز و محاسبات تجاری برای تصمیم‌های سریع‌تر و دقیق‌تر.", "مشاهده پروژه"],
@@ -30,7 +31,8 @@ window.portfolioData = {
     ["فناوری مالی", "مدیریت حساب‌های امانی", "پلتفرم دوزبانه مدیریت چک، دریافت، برداشت، جریان نقدی، پیش‌بینی و گزارش‌های مالی.", "مشاهده پروژه"],
     ["تجربه دیجیتال", "MODAFRAME Virtual Studio", "نمونه تجربه مجازی برای پرو لباس و ساخت محتوای متحرک در فضای مد و تجارت دیجیتال.", "مشاهده پروژه"],
     ["تحلیل مدیریتی", "گزارش مدیریتی CPR", "اعتبارسنجی داده، حذف رکوردهای تکراری، محاسبه KPI و تولید گزارش مدیریتی قابل ویرایش.", "مشاهده پروژه"],
-    ["پروتوتایپ صنعتی", "سامانه کنترل اطلاعات صنعتی", "نمونه اولیه یک راهکار دیجیتال برای نمایش و توسعه فرایندهای کسب‌وکار صنعتی.", "درخواست مشاوره"]
+    ["پروتوتایپ صنعتی", "سامانه کنترل اطلاعات صنعتی", "نمونه اولیه یک راهکار دیجیتال برای نمایش و توسعه فرایندهای کسب‌وکار صنعتی.", "درخواست مشاوره"],
+    ["مشاوره مدیریت صنعتی", "فضای مشاوره راه‌اندازی مدیریت کارخانه", "ابزار تعاملی برای هدایت جلسه مشاوره، تعریف آینده کارخانه، معماری فرآیندها، شاخص‌ها، نظام جلسات و تدوین Management Start-up Blueprint.", "مشاهده سامانه"]
   ],
   en: [
     ["People intelligence", "Intelligent Human Capital System", "Talent, succession and workforce analytics with decision-ready reporting for leaders.", "View live product"],
@@ -40,7 +42,8 @@ window.portfolioData = {
     ["Financial technology", "Escrow Banking Manager", "A bilingual platform for cheques, receipts, withdrawals, cash flow, forecasting and financial reporting.", "View project"],
     ["Digital experience", "MODAFRAME Virtual Studio", "A virtual try-on and motion-content concept for fashion and digital commerce.", "View project"],
     ["Management analytics", "CPR Management Report", "Data validation, deduplication, auditable KPI calculation and editable management reporting.", "View project"],
-    ["Industrial prototype", "Industrial Information Control System", "A digital prototype designed to present and evolve industrial business processes.", "Request a consultation"]
+    ["Industrial prototype", "Industrial Information Control System", "A digital prototype designed to present and evolve industrial business processes.", "Request a consultation"],
+    ["Industrial management consulting", "Factory Management Start-up Workspace", "An interactive consulting workspace for defining the factory vision, process architecture, KPIs, meeting system and Management Start-up Blueprint.", "View workspace"]
   ],
   zh: [
     ["人才智能", "智能人力资本系统", "人才、继任与人力分析，以及面向管理者的决策报告。", "查看产品演示"],
@@ -50,7 +53,8 @@ window.portfolioData = {
     ["金融科技", "托管账户管理平台", "用于支票、收款、付款、现金流、预测和财务报告的双语平台。", "查看项目"],
     ["数字体验", "MODAFRAME虚拟工作室", "面向时尚与数字商业的虚拟试穿和动态内容概念。", "查看项目"],
     ["管理分析", "CPR管理报告", "数据验证、去重、可审计KPI计算以及可编辑管理报告。", "查看项目"],
-    ["工业原型", "工业信息控制系统", "用于展示并持续发展工业业务流程的数字化原型。", "申请咨询"]
+    ["工业原型", "工业信息控制系统", "用于展示并持续发展工业业务流程的数字化原型。", "申请咨询"],
+    ["工业管理咨询", "工厂管理启动工作区", "用于定义工厂愿景、流程架构、KPI、会议机制与管理启动蓝图的互动咨询工具。", "查看工作区"]
   ],
   ar: [
     ["ذكاء رأس المال البشري", "نظام رأس المال البشري الذكي", "إدارة المواهب والتعاقب وتحليلات القوى العاملة وتقارير القرار للمديرين.", "مشاهدة المنتج"],
@@ -60,7 +64,8 @@ window.portfolioData = {
     ["التقنية المالية", "مدير الحسابات الائتمانية", "منصة ثنائية اللغة للشيكات والإيصالات والسحوبات والتدفق النقدي والتنبؤ والتقارير.", "مشاهدة المشروع"],
     ["التجربة الرقمية", "MODAFRAME Virtual Studio", "مفهوم للتجربة الافتراضية وصناعة المحتوى المتحرك للأزياء والتجارة الرقمية.", "مشاهدة المشروع"],
     ["التحليل الإداري", "تقرير CPR الإداري", "التحقق من البيانات وإزالة التكرار وحساب مؤشرات قابلة للتدقيق وإنتاج تقارير قابلة للتحرير.", "مشاهدة المشروع"],
-    ["نموذج صناعي", "نظام التحكم بالمعلومات الصناعية", "نموذج رقمي لعرض عمليات الأعمال الصناعية وتطويرها.", "اطلب استشارة"]
+    ["نموذج صناعي", "نظام التحكم بالمعلومات الصناعية", "نموذج رقمي لعرض عمليات الأعمال الصناعية وتطويرها.", "اطلب استشارة"],
+    ["استشارات الإدارة الصناعية", "مساحة انطلاق إدارة المصنع", "أداة استشارية تفاعلية لتحديد رؤية المصنع وبنية العمليات ومؤشرات الأداء ونظام الاجتماعات وإعداد مخطط الانطلاق الإداري.", "مشاهدة الأداة"]
   ]
 };
 
@@ -87,7 +92,8 @@ window.portfolioPreview = function (index) {
     '<div class="mini-ui mini-bank"><span></span><span></span><i></i><i></i><b></b></div>',
     '<div class="mini-ui mini-fashion"><i></i><span></span><b></b></div>',
     '<div class="mini-ui mini-report"><span></span><span></span><span></span><span></span><b></b></div>',
-    '<div class="mini-ui mini-steel"><i></i><i></i><span></span><span></span><b></b></div>'
+    '<div class="mini-ui mini-steel"><i></i><i></i><span></span><span></span><b></b></div>',
+    '<div class="mini-ui mini-factory"><span></span><span></span><span></span><i></i><b></b></div>'
   ];
   return previews[index] || previews[0];
 };
