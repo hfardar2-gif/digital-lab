@@ -1,9 +1,9 @@
 window.portfolioData = {
   extras: {
-    fa: { proofFields:"۸ سامانه واقعی", proofIndustries:"خروجی قابل نمایش", proofIndustriesValue:"۲ مسیر همکاری", proofLanguages:"تمام‌وقت · پروژه", careerCta: "پیشنهاد همکاری تمام‌وقت", careerLabel: "مسیر مدیریتی", careerTitle: "آماده بررسی فرصت همکاری تمام‌وقت", projectLabel: "مسیر پروژه", projectTitle: "آماده مشاوره و اجرای پروژه‌های تحول دیجیتال", resumeDownload:"دانلود رزومه حرفه‌ای", solutionKicker:"رویکرد حرفه‌ای من", mustBecome:"باید بشود", learningKicker:"یادگیری و انتقال تجربه", learningTitle:"دانش فنی، مدیریت پروژه و نگاه آینده‌محور", learningText:"ترکیبی از آموزش‌های تخصصی، تجربه تدریس و مشارکت در کمیته‌های راهبردی و تحول سازمانی.", learning:[["مدیریت پروژه","PMBOK · EVM · Primavera","مدیریت و کنترل پروژه، ارزش کسب‌شده و مدیریت پروژه‌های فناوری اطلاعات."],["سیستم و فرایند","ERP · امنیت اطلاعات · نگهداری و تعمیرات","مدیریت منابع سازمانی، استانداردسازی امنیت اطلاعات و طراحی فرایند کسب‌وکار."],["تدریس و مشارکت","دانشگاه و آکادمی‌های حرفه‌ای","تدریس برنامه‌ریزی استراتژیک، تجارت الکترونیک، فناوری اطلاعات، MBA و DBA."],["آینده و راهبرد","رهبری خلاق · آینده‌پژوهی","توسعه سازمانی مبتنی بر راهبرد، مدیریت تفکر استراتژیک و آینده‌نگری."]]},
-    en: { proofFields:"8 real systems", proofIndustries:"Work you can inspect", proofIndustriesValue:"2 engagement paths", proofLanguages:"Full-time · Projects", careerCta: "Discuss a full-time role", careerLabel: "Leadership path", careerTitle: "Open to the right full-time leadership opportunity", projectLabel: "Project path", projectTitle: "Available for digital transformation consulting and delivery", resumeDownload:"Download professional CV", solutionKicker:"How I create value", mustBecome:"should become", learningKicker:"Learning and knowledge sharing", learningTitle:"Technical depth, project discipline and a future-facing view", learningText:"Specialist training combined with university teaching and participation in strategy and transformation committees.", learning:[["Project management","PMBOK · EVM · Primavera","Project control, earned value and management of information technology projects."],["Systems and process","ERP · Information security · Maintenance","Enterprise resource management, security standards and business process design."],["Teaching and contribution","Universities and professional academies","Teaching strategic planning, e-commerce, IT, MBA and DBA topics."],["Future and strategy","Creative leadership · Foresight","Strategy-led organization development, strategic thinking and futures studies."]]},
-    zh: { proofFields:"8个真实系统", proofIndustries:"可查看的成果", proofIndustriesValue:"2种合作方式", proofLanguages:"全职 · 项目", careerCta: "洽谈全职管理职位", careerLabel: "管理职业路径", careerTitle: "愿意了解合适的全职管理机会", projectLabel: "项目合作路径", projectTitle: "提供数字化转型咨询与项目实施", resumeDownload:"下载专业简历", solutionKicker:"我的价值创造方法", mustBecome:"应转变为", learningKicker:"持续学习与经验分享", learningTitle:"技术深度、项目纪律与前瞻视野", learningText:"将专业培训、大学教学以及战略与转型委员会实践融为一体。", learning:[["项目管理","PMBOK · EVM · Primavera","项目控制、挣值管理与信息技术项目管理。"],["系统与流程","ERP · 信息安全 · 设备维护","企业资源管理、信息安全标准与业务流程设计。"],["教学与参与","大学与专业学院","讲授战略规划、电子商务、信息技术、MBA与DBA课程。"],["未来与战略","创新领导力 · 前瞻研究","战略导向的组织发展、战略思维与未来研究。"]]},
-    ar: { proofFields:"8 أنظمة حقيقية", proofIndustries:"أعمال قابلة للعرض", proofIndustriesValue:"مساران للتعاون", proofLanguages:"دوام كامل · مشاريع", careerCta: "ناقش فرصة عمل بدوام كامل", careerLabel: "المسار القيادي", careerTitle: "منفتح على فرصة قيادية مناسبة بدوام كامل", projectLabel: "مسار المشاريع", projectTitle: "متاح لاستشارات وتنفيذ مشاريع التحول الرقمي", resumeDownload:"تنزيل السيرة المهنية", solutionKicker:"منهجي في خلق القيمة", mustBecome:"ينبغي أن يصبح", learningKicker:"التعلم ونقل الخبرة", learningTitle:"عمق تقني وانضباط مشروعي ورؤية مستقبلية", learningText:"مزيج من التدريب المتخصص والتدريس الجامعي والمشاركة في لجان الاستراتيجية والتحول.", learning:[["إدارة المشاريع","PMBOK · EVM · Primavera","ضبط المشاريع والقيمة المكتسبة وإدارة مشاريع تقنية المعلومات."],["الأنظمة والعمليات","ERP · أمن المعلومات · الصيانة","إدارة موارد المؤسسة ومعايير الأمن وتصميم عمليات الأعمال."],["التدريس والمشاركة","الجامعات والأكاديميات المهنية","تدريس التخطيط الاستراتيجي والتجارة الإلكترونية وتقنية المعلومات وMBA وDBA."],["المستقبل والاستراتيجية","القيادة الإبداعية · الاستشراف","التطوير التنظيمي القائم على الاستراتيجية والتفكير الاستراتيجي ودراسات المستقبل."]]}
+    fa: { proofFields:"۱۲ سامانه واقعی", proofIndustries:"خروجی قابل نمایش", proofIndustriesValue:"۲ مسیر همکاری", proofLanguages:"تمام‌وقت · پروژه", careerCta: "پیشنهاد همکاری تمام‌وقت", careerLabel: "مسیر مدیریتی", careerTitle: "آماده بررسی فرصت همکاری تمام‌وقت", projectLabel: "مسیر پروژه", projectTitle: "آماده مشاوره و اجرای پروژه‌های تحول دیجیتال", resumeDownload:"دانلود رزومه حرفه‌ای", solutionKicker:"رویکرد حرفه‌ای من", mustBecome:"باید بشود", learningKicker:"یادگیری و انتقال تجربه", learningTitle:"دانش فنی، مدیریت پروژه و نگاه آینده‌محور", learningText:"ترکیبی از آموزش‌های تخصصی، تجربه تدریس و مشارکت در کمیته‌های راهبردی و تحول سازمانی.", learning:[["مدیریت پروژه","PMBOK · EVM · Primavera","مدیریت و کنترل پروژه، ارزش کسب‌شده و مدیریت پروژه‌های فناوری اطلاعات."],["سیستم و فرایند","ERP · امنیت اطلاعات · نگهداری و تعمیرات","مدیریت منابع سازمانی، استانداردسازی امنیت اطلاعات و طراحی فرایند کسب‌وکار."],["تدریس و مشارکت","دانشگاه و آکادمی‌های حرفه‌ای","تدریس برنامه‌ریزی استراتژیک، تجارت الکترونیک، فناوری اطلاعات، MBA و DBA."],["آینده و راهبرد","رهبری خلاق · آینده‌پژوهی","توسعه سازمانی مبتنی بر راهبرد، مدیریت تفکر استراتژیک و آینده‌نگری."]]},
+    en: { proofFields:"12 real systems", proofIndustries:"Work you can inspect", proofIndustriesValue:"2 engagement paths", proofLanguages:"Full-time · Projects", careerCta: "Discuss a full-time role", careerLabel: "Leadership path", careerTitle: "Open to the right full-time leadership opportunity", projectLabel: "Project path", projectTitle: "Available for digital transformation consulting and delivery", resumeDownload:"Download professional CV", solutionKicker:"How I create value", mustBecome:"should become", learningKicker:"Learning and knowledge sharing", learningTitle:"Technical depth, project discipline and a future-facing view", learningText:"Specialist training combined with university teaching and participation in strategy and transformation committees.", learning:[["Project management","PMBOK · EVM · Primavera","Project control, earned value and management of information technology projects."],["Systems and process","ERP · Information security · Maintenance","Enterprise resource management, security standards and business process design."],["Teaching and contribution","Universities and professional academies","Teaching strategic planning, e-commerce, IT, MBA and DBA topics."],["Future and strategy","Creative leadership · Foresight","Strategy-led organization development, strategic thinking and futures studies."]]},
+    zh: { proofFields:"12个真实系统", proofIndustries:"可查看的成果", proofIndustriesValue:"2种合作方式", proofLanguages:"全职 · 项目", careerCta: "洽谈全职管理职位", careerLabel: "管理职业路径", careerTitle: "愿意了解合适的全职管理机会", projectLabel: "项目合作路径", projectTitle: "提供数字化转型咨询与项目实施", resumeDownload:"下载专业简历", solutionKicker:"我的价值创造方法", mustBecome:"应转变为", learningKicker:"持续学习与经验分享", learningTitle:"技术深度、项目纪律与前瞻视野", learningText:"将专业培训、大学教学以及战略与转型委员会实践融为一体。", learning:[["项目管理","PMBOK · EVM · Primavera","项目控制、挣值管理与信息技术项目管理。"],["系统与流程","ERP · 信息安全 · 设备维护","企业资源管理、信息安全标准与业务流程设计。"],["教学与参与","大学与专业学院","讲授战略规划、电子商务、信息技术、MBA与DBA课程。"],["未来与战略","创新领导力 · 前瞻研究","战略导向的组织发展、战略思维与未来研究。"]]},
+    ar: { proofFields:"12 نظاماً حقيقياً", proofIndustries:"أعمال قابلة للعرض", proofIndustriesValue:"مساران للتعاون", proofLanguages:"دوام كامل · مشاريع", careerCta: "ناقش فرصة عمل بدوام كامل", careerLabel: "المسار القيادي", careerTitle: "منفتح على فرصة قيادية مناسبة بدوام كامل", projectLabel: "مسار المشاريع", projectTitle: "متاح لاستشارات وتنفيذ مشاريع التحول الرقمي", resumeDownload:"تنزيل السيرة المهنية", solutionKicker:"منهجي في خلق القيمة", mustBecome:"ينبغي أن يصبح", learningKicker:"التعلم ونقل الخبرة", learningTitle:"عمق تقني وانضباط مشروعي ورؤية مستقبلية", learningText:"مزيج من التدريب المتخصص والتدريس الجامعي والمشاركة في لجان الاستراتيجية والتحول.", learning:[["إدارة المشاريع","PMBOK · EVM · Primavera","ضبط المشاريع والقيمة المكتسبة وإدارة مشاريع تقنية المعلومات."],["الأنظمة والعمليات","ERP · أمن المعلومات · الصيانة","إدارة موارد المؤسسة ومعايير الأمن وتصميم عمليات الأعمال."],["التدريس والمشاركة","الجامعات والأكاديميات المهنية","تدريس التخطيط الاستراتيجي والتجارة الإلكترونية وتقنية المعلومات وMBA وDBA."],["المستقبل والاستراتيجية","القيادة الإبداعية · الاستشراف","التطوير التنظيمي القائم على الاستراتيجية والتفكير الاستراتيجي ودراسات المستقبل."]]}
   },
   history: {
     fa: [["۱۳۷۸ — ۱۳۸۲","تدریس دانشگاهی و مدیریت خدمات فناوری","تدریس در دانشکده‌های فنی و پردیس؛ مدیریت خدمات پس از فروش در ایران ارقام و صنایع کامپیوتر."],["۱۳۷۳ — ۱۳۷۹","مدیریت فنی، تولید و خدمات پس از فروش","راهبری تیم‌های فنی در متاکام، مجتمع صنایع کامپیوتر و رهاورد اندیشه پویا."],["۱۳۷۲ — ۱۳۷۶","آغاز مسیر در آموزش و فناوری","تدریس علوم کامپیوتر و مدیریت سرویس و نگهداری سامانه‌های سازمانی."]],
@@ -20,9 +20,12 @@ window.portfolioData = {
     "#contact",
     "#contact",
     "#contact",
+    "https://hfardar2-gif.github.io/fardar-demos/education-dashboard/",
+    "https://hfardar2-gif.github.io/fardar-demos/readmission-dashboard/",
+    "https://hfardar2-gif.github.io/fardar-demos/patient-safety-dashboard/",
     "https://hfardar2-gif.github.io/fardar-demos/factory-management-workspace/"
   ],
-  icons: ["users", "currency", "factory", "flow", "bank", "sparkles", "chart", "layers", "factory"],
+  icons: ["users", "currency", "factory", "flow", "bank", "sparkles", "chart", "layers", "chart", "chart", "sparkles", "factory"],
   fa: [
     ["هوشمندی منابع انسانی", "سامانه هوشمند سرمایه انسانی", "مدیریت استعدادها، جانشین‌پروری، تحلیل سرمایه انسانی و گزارش‌های تصمیم‌ساز برای مدیران.", "مشاهده دموی محصول"],
     ["تصمیم‌یار تجاری", "AKAXII", "ابزار چندزبانه نرخ ارز و محاسبات تجاری برای تصمیم‌های سریع‌تر و دقیق‌تر.", "مشاهده پروژه"],
@@ -32,6 +35,9 @@ window.portfolioData = {
     ["تجربه دیجیتال", "MODAFRAME Virtual Studio", "نمونه تجربه مجازی برای پرو لباس و ساخت محتوای متحرک در فضای مد و تجارت دیجیتال.", "مشاهده پروژه"],
     ["تحلیل مدیریتی", "گزارش مدیریتی CPR", "اعتبارسنجی داده، حذف رکوردهای تکراری، محاسبه KPI و تولید گزارش مدیریتی قابل ویرایش.", "مشاهده پروژه"],
     ["پروتوتایپ صنعتی", "سامانه کنترل اطلاعات صنعتی", "نمونه اولیه یک راهکار دیجیتال برای نمایش و توسعه فرایندهای کسب‌وکار صنعتی.", "درخواست مشاوره"],
+    ["هوشمندی کسب‌وکار", "داشبورد تحلیل کسب‌وکار آموزشی", "داشبورد مدیریتی برای تحلیل عملکرد آموزشی، بازار، فروش و شناسایی فرصت‌های توسعه کسب‌وکار.", "مشاهده داشبورد"],
+    ["تحلیل داده‌های سلامت", "سامانه تحلیل بستری مجدد زیر ۴۸ ساعت", "سامانه تحلیلی برای شناسایی، بررسی و پایش بستری مجدد بیماران زیر ۴۸ ساعت و تهیه گزارش‌های مدیریتی و آماری.", "مشاهده سامانه"],
+    ["ایمنی بیمار و تحلیل سلامت", "داشبورد هوشمند پایش خطاهای ایمنی بیمار", "داشبورد تحلیلی برای پایش خطاهای ثبت‌شده، تحلیل الگوها، بررسی شاخص‌های کلیدی و تولید گزارش مدیریتی.", "مشاهده داشبورد"],
     ["مشاوره مدیریت صنعتی", "فضای مشاوره راه‌اندازی مدیریت کارخانه", "ابزار تعاملی برای هدایت جلسه مشاوره، تعریف آینده کارخانه، معماری فرآیندها، شاخص‌ها، نظام جلسات و تدوین Management Start-up Blueprint.", "مشاهده سامانه"]
   ],
   en: [
@@ -43,6 +49,9 @@ window.portfolioData = {
     ["Digital experience", "MODAFRAME Virtual Studio", "A virtual try-on and motion-content concept for fashion and digital commerce.", "View project"],
     ["Management analytics", "CPR Management Report", "Data validation, deduplication, auditable KPI calculation and editable management reporting.", "View project"],
     ["Industrial prototype", "Industrial Information Control System", "A digital prototype designed to present and evolve industrial business processes.", "Request a consultation"],
+    ["Business intelligence", "Educational Business Analysis Dashboard", "A management dashboard for analyzing educational performance, market activity, sales and business-development opportunities.", "View dashboard"],
+    ["Healthcare analytics", "Under-48-Hour Readmission Analysis System", "An analytical system for identifying, reviewing and monitoring patient readmissions within 48 hours and producing management and statistical reports.", "View system"],
+    ["Patient safety analytics", "Intelligent Patient Safety Error Monitoring Dashboard", "An analytical dashboard for monitoring reported safety events, identifying patterns, tracking key indicators and producing management reports.", "View dashboard"],
     ["Industrial management consulting", "Factory Management Start-up Workspace", "An interactive consulting workspace for defining the factory vision, process architecture, KPIs, meeting system and Management Start-up Blueprint.", "View workspace"]
   ],
   zh: [
@@ -54,6 +63,9 @@ window.portfolioData = {
     ["数字体验", "MODAFRAME虚拟工作室", "面向时尚与数字商业的虚拟试穿和动态内容概念。", "查看项目"],
     ["管理分析", "CPR管理报告", "数据验证、去重、可审计KPI计算以及可编辑管理报告。", "查看项目"],
     ["工业原型", "工业信息控制系统", "用于展示并持续发展工业业务流程的数字化原型。", "申请咨询"],
+    ["商业智能", "教育业务分析仪表板", "用于分析教育绩效、市场、销售以及业务发展机会的管理仪表板。", "查看仪表板"],
+    ["医疗数据分析", "48小时内再入院分析系统", "用于识别、审查和监测48小时内患者再入院，并生成管理和统计报告的分析系统。", "查看系统"],
+    ["患者安全分析", "患者安全事件智能监测仪表板", "用于监测安全事件、分析模式、跟踪关键指标并生成管理报告的分析仪表板。", "查看仪表板"],
     ["工业管理咨询", "工厂管理启动工作区", "用于定义工厂愿景、流程架构、KPI、会议机制与管理启动蓝图的互动咨询工具。", "查看工作区"]
   ],
   ar: [
@@ -65,6 +77,9 @@ window.portfolioData = {
     ["التجربة الرقمية", "MODAFRAME Virtual Studio", "مفهوم للتجربة الافتراضية وصناعة المحتوى المتحرك للأزياء والتجارة الرقمية.", "مشاهدة المشروع"],
     ["التحليل الإداري", "تقرير CPR الإداري", "التحقق من البيانات وإزالة التكرار وحساب مؤشرات قابلة للتدقيق وإنتاج تقارير قابلة للتحرير.", "مشاهدة المشروع"],
     ["نموذج صناعي", "نظام التحكم بالمعلومات الصناعية", "نموذج رقمي لعرض عمليات الأعمال الصناعية وتطويرها.", "اطلب استشارة"],
+    ["ذكاء الأعمال", "لوحة تحليل الأعمال التعليمية", "لوحة إدارية لتحليل الأداء التعليمي والسوق والمبيعات وفرص تطوير الأعمال.", "مشاهدة اللوحة"],
+    ["تحليلات الرعاية الصحية", "نظام تحليل إعادة الإدخال خلال 48 ساعة", "نظام تحليلي لتحديد ومراجعة ومتابعة إعادة إدخال المرضى خلال 48 ساعة وإعداد تقارير إدارية وإحصائية.", "مشاهدة النظام"],
+    ["سلامة المرضى والتحليلات الصحية", "لوحة ذكية لمراقبة أخطاء سلامة المرضى", "لوحة تحليلية لمراقبة أحداث السلامة المسجلة وتحليل الأنماط ومتابعة المؤشرات الرئيسية وإنتاج تقارير إدارية.", "مشاهدة اللوحة"],
     ["استشارات الإدارة الصناعية", "مساحة انطلاق إدارة المصنع", "أداة استشارية تفاعلية لتحديد رؤية المصنع وبنية العمليات ومؤشرات الأداء ونظام الاجتماعات وإعداد مخطط الانطلاق الإداري.", "مشاهدة الأداة"]
   ]
 };
@@ -93,6 +108,9 @@ window.portfolioPreview = function (index) {
     '<div class="mini-ui mini-fashion"><i></i><span></span><b></b></div>',
     '<div class="mini-ui mini-report"><span></span><span></span><span></span><span></span><b></b></div>',
     '<div class="mini-ui mini-steel"><i></i><i></i><span></span><span></span><b></b></div>',
+    '<div class="mini-ui mini-report"><span></span><span></span><span></span><span></span><b></b></div>',
+    '<div class="mini-ui mini-report"><span></span><span></span><span></span><span></span><b></b></div>',
+    '<div class="mini-ui mini-people"><i></i><i></i><i></i><span></span><span></span><b></b></div>',
     '<div class="mini-ui mini-factory"><span></span><span></span><span></span><i></i><b></b></div>'
   ];
   return previews[index] || previews[0];
